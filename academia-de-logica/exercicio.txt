@@ -1,0 +1,12 @@
+var fruta1 = "maçã"
+var fruta2 = "abacaxi"
+var fruta3 = "manga"
+var fruta4 = "laranja"
+var fruta5 = "goiaba"
+var 5reais = [fruta2, fruta3, fruta4, fruta5]
+var 3reais = fruta1
+var caixa1 = [fruta1, fruta2, fruta3]
+var caixa2 = [fruta4, fruta5, fruta2]
+var caixa3 = [fruta1. fruta2, fruta3]
+
+
