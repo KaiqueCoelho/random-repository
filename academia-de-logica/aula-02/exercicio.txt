@@ -1,0 +1,16 @@
+var fruta1 = "maçã";
+var fruta2 = "abacaxi";
+var fruta3 = "manga";
+var fruta4 = "laranja";
+var fruta5 = "goiaba";
+var caixa1 = [fruta1, fruta2, fruta3, fruta4, fruta5];
+var caixa2 = [fruta4, fruta5, fruta2, fruta1, fruta3];
+var cincoReais = [fruta2, fruta3, fruta4, fruta5];
+var tresReais = fruta1;
+var frutaEmPromocao = fruta1;
+for (var contador = 0; contador < caixa1.length; contador++) {
+console.log(caixa1[contador])
+            }
+for (var contador = 0; contador < caixa1.length; contador++) {
+console.log(caixa2[contador])
+            }
