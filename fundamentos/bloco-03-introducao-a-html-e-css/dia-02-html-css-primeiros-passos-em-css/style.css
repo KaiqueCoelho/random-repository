@@ -1,15 +1,19 @@
         h1 {
+            text-align: center;
             font-size: 65px;
             color: orange;
             font-family: sans-serif;
+            background-size: 0cm;
         }
         ul {
-            background-color: aqua;
             font-style: italic;
             line-height: 30px;
         }
         .backgroundpul {
-            background-color: grey;
+            padding: 15px 30px;
+            text-align: center;
+            background-color: rgba(163, 163, 163, 0.63);
+            border-radius: 15px 20px;
         }
         p {
           font-weight: 600;
@@ -18,12 +22,21 @@
         body {
           font-size: 16px;
         }
-        #amarelo {
+        #amarelo span{
+          line-height: 50px;
+          padding: 10px 10px;
+          border-radius: 15px 20px;
           background-color: yellow;
         }
-        #marrom {
+        #marrom span{
+          line-height: 50px;
+          padding: 10px 10px;
+          border-radius: 15px 20px;
           background-color: brown;
         }
-        #vermelho {
+        #vermelho span{
+          line-height: 50px;
+          padding: 10px 10px;
+          border-radius: 15px 20px;
           background-color: red;
         }
