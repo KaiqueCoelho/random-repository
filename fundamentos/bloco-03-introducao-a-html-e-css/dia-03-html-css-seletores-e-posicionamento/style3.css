@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+.melhores:hover {
+    background-color: aqua;
+}
+.melhores:active {
+    font-family: monospace;
+}
+.lista {
+    list-style: none;
+}
