@@ -1,0 +1,37 @@
+div:nth-child(3) {
+    color: blue;
+}
+div:nth-child(4) {
+    color: purple;
+}
+div:nth-child(5) {
+    font-size: 30px;
+    color: rgb(168, 168, 184);
+}
+div:nth-child(6) {
+    color: rgba(153, 20, 20, 0.979);
+}
+div:nth-child(7) {
+    color: yellow;
+}
+div:nth-child(odd) h3 {
+    font-style: italic;
+}
+div:nth-child(3) h3 {
+    background-color: #a5a5f5;
+}
+div:nth-child(4) h3 {
+    background-color: rgb(255, 176, 255);
+}
+div:nth-child(5) h3 {
+    background-color: rgb(211, 211, 211);    
+}
+div:nth-child(6) h3 {
+    background-color:rgba(190, 157, 157, 0.979) ;
+}
+div:nth-child(7) h3 {
+    background-color: rgb(206, 206, 156);
+}
+div:hover h3{
+    border-style: solid;
+}
