@@ -1,0 +1,50 @@
+ol {
+    background-color: yellow;
+}
+ol li:nth-child(even) {
+    color: green;
+}
+ol li:nth-child(odd) {
+    text-transform: uppercase;
+}
+h1, h2, h3, h4, h5, h6{
+    color: red;
+}
+h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
+    font-size: 40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+li {
+    font-size: 20px;
+}
+li em {
+    font-weight: bold;
+}
+div li:nth-child(1), div li:nth-child(2), div li:nth-child(3) {
+    color: blue;
+}
+.java {
+    background-color: pink;
+}
+li:nth-child(1) a:hover {
+    font-weight: bold;
+    color: orange;
+}
+li:nth-child(2) a:hover {
+    font-weight: bold;
+    color: green;
+}
+li:nth-child(3) a:hover {
+    font-weight: bold;
+    color: black;
+}
+li:nth-child(4) a:hover {
+    font-weight: bold;
+    color: yellow;
+}
+li:nth-child(5) a:hover {
+    font-weight: bold;
+    color: green;
+}
