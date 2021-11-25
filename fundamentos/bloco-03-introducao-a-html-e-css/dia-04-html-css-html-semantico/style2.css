@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    background-color: rgb(192, 192, 192);
+}
+
+.nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav ul li{
+    display: inline-block;
+    margin: 0px 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:rgb(192, 192, 192); 
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.secao {
+    background-color: rgb(216, 216, 216);
+    border: 2px solid black;
+    padding: 0px 10px;
+}
+
+.secao h2 {
+    background-color: rgb(172, 172, 172);
+    width: 15%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 0px 5px;
+}
+
+.aside {
+    position: relative;
+}
+
+.article {
+    width: 50%;
+}
