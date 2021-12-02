@@ -10,14 +10,14 @@ let info2 = {
   nota: "O último MacPatinhas",
   recorrente: "Sim",
 };
-console.log("Bem vinda,", info["personagem"]);
-info["recorrente"] = "Sim";
-console.log(info);
+// console.log("Bem vinda,", info["personagem"]);
+// info["recorrente"] = "Sim";
+// console.log(info);
 
 for (key in info) {
   console.log(key);
 }
 
-for (valor in info) {
-  console.log(info[valor]);
-}
+// for (valor in info) {
+//   console.log(info[valor]);
+// }
