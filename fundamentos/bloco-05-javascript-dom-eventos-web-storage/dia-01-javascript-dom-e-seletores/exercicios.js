@@ -25,9 +25,18 @@ function arrumaTexto(elemento) {
 arrumaTexto(document.getElementsByClassName('title')[0])
 
 function todasMaiusculas(elemento) {
-for (let index = 0; index < elemento.length; index += 1) {
-    return elemento[index].innerText.toUpperCase();
-}
+    for (let index = 0; index < elemento.length; index += 1) {
+        elemento[index].innerText = elemento[index].innerText.toUpperCase();
+    }
 }
 
 todasMaiusculas(document.getElementsByTagName('p'))
+
+function consoleParagrafo(elemento) {
+    for (let index = 0; index < elemento.length; index += 1) {
+        console.log(elemento[index].innerText)
+    }
+}
+
+consoleParagrafo(document.getElementsByTagName('p'))
+
