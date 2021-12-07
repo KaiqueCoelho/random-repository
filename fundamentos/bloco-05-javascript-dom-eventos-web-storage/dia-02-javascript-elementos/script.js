@@ -49,3 +49,21 @@ ul.children[7].innerText = 'Oito';
 ul.children[8].innerText = 'Nove';
 ul.children[9].innerText = 'Dez';
 
+for(let index = 0; index < 3; index += 1){
+let h3 = document.createElement('h3')
+main.appendChild(h3);
+}
+
+h1.className = 'title';
+main.lastElementChild.className = 'description';
+main.lastElementChild.previousSibling.className = 'description';
+main.lastElementChild.previousElementSibling.previousElementSibling.className = 'description';
+
+main.removeChild(sectionLeft);
+
+sectionRight.style = 'margin-right: auto';
+
+section.parentElement.style = 'background-color: green';
+
+sectionRight.firstChild.lastChild.remove();
+sectionRight.firstChild.lastChild.remove();
