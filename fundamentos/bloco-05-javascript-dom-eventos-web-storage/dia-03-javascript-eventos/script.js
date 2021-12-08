@@ -94,14 +94,14 @@ function fridayText() {
   }
 }
 
-// let daysContainer = document.getElementById('days');
-// daysContainer.addEventListener('mouseover', function(event) {
-//   event.target.style = 'font-size: 50px';
-// })
+let daysContainer = document.getElementById('days');
+daysContainer.addEventListener('mouseover', function(event) {
+  event.target.style = 'font-size: 30px';
+})
 
-// daysContainer.addEventListener('mouseout', function(event) {
-//   event.target.style = 'font-size: 20px';
-// })
+daysContainer.addEventListener('mouseout', function(event) {
+  event.target.style = 'font-size: 20px';
+})
 
 function addTarefa(string) {
   let tasks = document.getElementsByClassName('my-tasks')[0];
@@ -111,3 +111,15 @@ function addTarefa(string) {
 }
 
 addTarefa('Estudar')
+
+function legenda(color) {
+
+  let tasksContainer = document.getElementsByClassName('my-tasks')[0];
+  let div = document.createElement('div');
+
+  div.className = 'task';
+  div.style.backgroundColor = color;
+  tasksContainer.appendChild(div);
+};
+
+legenda('blue');
