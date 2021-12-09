@@ -1,0 +1,46 @@
+body {
+    margin: 5px;
+}
+
+#header {
+    text-align: center;
+    font-size: 45px;
+    border: 0px;
+}
+
+#btn {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    border: solid;
+}
+
+p {
+    margin: 20px;
+    font-size: 20px;
+}
+
+.blue {
+    color: blue;
+}
+
+.wheat {
+    background-color: wheat;
+}
+
+.grande {
+    font-size: 28px;
+}
+
+.espacamento {
+    line-height: 50px;
+}
+
+.sans {
+    font-family: sans-serif;
+}
