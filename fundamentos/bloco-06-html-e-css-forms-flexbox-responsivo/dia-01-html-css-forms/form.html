@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>Envio de Curriculo</h1>
+  <form action="" method="get">
+    <fieldset>
+      <label for="name"> Nome:
+        <input type="text" name="name" id="name" maxlength="40" required placeholder="João da Silva">
+      </label>
+      <br><br>
+      <label for="email"> Email:
+        <input type="email" name="email" id="email" placeholder="exemplo@exemplo.com" required>
+      </label>
+      <br><br>
+      <label for="cpf"> CPF:
+        <input type="text" name="cpf" id="cpf" placeholder="xxx.xxx.xxx-xx" maxlength="14" required>
+      </label>
+      <br><br>
+      <label for="endereco">Endereço:
+        <input type="text" name="endereco" id="endereco" required maxlength="200"
+          placeholder="Rua xxx, 123, Jardim Exemplo">
+      </label>
+      <br><br>
+      <label for="cidade">Cidade:
+        <input type="text" name="cidade" id="cidade" required placeholder="São Paulo" maxlength="28">
+      </label>
+      <br><br>
+      <label for="estado"> Estado:
+        <select name="estado" id="estado" required>
+        </select>
+      </label>
+      <br><br>
+      <label for="moradia">Moro em:
+        <input type="radio" name="moradia" id="casa" required>Casa
+        <input type="radio" name="moradia" id="apartamento" required>Apartamento
+      </label>
+    </fieldset>
+    <h2>Ultima Experiência</h2>
+    <fieldset>
+      <label for="resumo">
+        <textarea name="resumo" id="resumo" cols="30" rows="10" maxlength="1000" placeholder="Breve descrição da sua ultima experiência profissional" required></textarea>
+      </label>
+      <br><br>
+      <label for="cargo">Cargo:
+        <input type="text" name="cargo" id="cargo" maxlength="40" required>
+      </label>
+      <br><br>
+      <label for="descricao">Descrição:
+        <input type="text" name="descricao" id="descricao" maxlength="500" placeholder="Descreva suas atividades no ultimo cargo." required>     
+      </label>
+      <br><br>
+      <label for="data">Data de inicio:
+        <input type="date" name="data" id="data" required>
+      </label>
+      <br><br>
+    </fieldset>
+    <br>
+    <button type="submit">Enviar Curriculo</button>
+    <button type="submit" id="bot"> Botão Prevent Default</button>
+    <button type="button" id="limpar">Limpar</button>
+  </form>
+  <script src="script.js"></script>
+</body>
+
+</html>
