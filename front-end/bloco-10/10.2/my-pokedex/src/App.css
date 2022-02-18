@@ -1,0 +1,13 @@
+* {
+  list-style: none;
+}
+
+
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.App div {
+  margin-right: 30px;
+}
