@@ -88,20 +88,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-1: _Introduction - Front-end_
 - [x] 10-1: _Introduction - React_
 - [x] 10-1: _'Hello, world!' on React!_
-- [ ] 11-2: _React Components_
-- [ ] 11-3: _[Project - Solar System]()_
+- [x] 11-2: _React Components_
+- [x] 11-3: _[Project - Solar System]()_
 
 ##### Block 11: State components, events and formularies with React
 
-- [ ] 11-1: _Components with estate and events_
-- [ ] 11-2: _Formularies on React_
-- [ ] 11-3: _[Project - Tryunfo]()_
+- [x] 11-1: _Components with estate and events_
+- [x] 11-2: _Formularies on React_
+- [x] 11-3: _[Project - Tryunfo]()_
 
 ##### Block 12: Life cicle of components and React Router
 
-- [ ] 12-1: _Life cicle of components_
-- [ ] 12-2: _React Router_
-- [ ] 12-3: _[Project - TrybeTunes]()_
+- [x] 12-1: _Life cicle of components_
+- [x] 12-2: _React Router_
+- [x] 12-3: _[Project - TrybeTunes]()_
 
 ##### Block 13: Agile methodologies
 
@@ -117,8 +117,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Block 15: Managing state with Redux
 
-- [ ] 15-1: _Redux Introduction - The global state of the aplication_
-- [ ] 15-2: _Using Redux on React_
+- [x] 15-1: _Redux Introduction - The global state of the aplication_
+- [x] 15-2: _Using Redux on React_
 - [ ] 15-3: _Using Redux on React - Practice_
 - [ ] 15-4: _Using Redux on React - Asynchronous actions_
 - [ ] 15-5: _Tests in React-redux_
