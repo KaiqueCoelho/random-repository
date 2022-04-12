@@ -119,14 +119,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 15-1: _Redux Introduction - The global state of the aplication_
 - [x] 15-2: _Using Redux on React_
-- [ ] 15-3: _Using Redux on React - Practice_
-- [ ] 15-4: _Using Redux on React - Asynchronous actions_
-- [ ] 15-5: _Tests in React-redux_
-- [ ] 15-6: _[Project - Trybe Wallet]()_
+- [x] 15-3: _Using Redux on React - Practice_
+- [x] 15-4: _Using Redux on React - Asynchronous actions_
+- [x] 15-5: _Tests in React-redux_
+- [x] 15-6: _[Project - Trybe Wallet]()_
 
 ##### Block 16: Project Trivia Game
 
-- [ ] 16-1: _[Project - Trivia Game]()_
+- [x] 16-1: _[Project - Trivia Game]()_
 
 ##### Block 17: React & Context API
 
