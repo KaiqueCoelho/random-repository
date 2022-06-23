@@ -81,7 +81,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 9-2: _Jest - Asynchronous tests_
 - [x] 9-3: _[Project - Shopping cart]()_
 
-## Front-end Development :hourglass_flowing_sand:
+## Front-end Development :heavy_check_mark:
 
 ##### Block 10: Introduction to React
 
@@ -105,15 +105,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Block 13: Agile methodologies
 
-- [ ] 13-1: _Agile methodologies_
-- [ ] 13-2: _[Project - Frontend Online Store]()_
+- [x] 13-1: _Agile methodologies_
+- [x] 13-2: _[Project - Frontend Online Store]()_
 
 ##### Block 14: Automate tests with React Testing Library
 
-- [ ] 14-1: _RTL - First steps_
-- [ ] 14-2: _RTL - Mocks and Inputs_
-- [ ] 14-3: _RTL - Testing React Router_
-- [ ] 14-4: _[Project - React Tests]()_
+- [x] 14-1: _RTL - First steps_
+- [x] 14-2: _RTL - Mocks and Inputs_
+- [x] 14-3: _RTL - Testing React Router_
+- [x] 14-4: _[Project - React Tests]()_
 
 ##### Block 15: Managing state with Redux
 
@@ -130,54 +130,54 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Block 17: React & Context API
 
-- [ ] 17-1: _Context API on React_
-- [ ] 17-2: _React Hooks - useState and useContext_
-- [ ] 17-3: _React Hooks - useEffect and customized Hooks_
-- [ ] 17-4: _[Project - StarWars Datatable with Context API and Hooks]()_
+- [x] 17-1: _Context API on React_
+- [x] 17-2: _React Hooks - useState and useContext_
+- [x] 17-3: _React Hooks - useEffect and customized Hooks_
+- [x] 17-4: _[Project - StarWars Datatable with Context API and Hooks]()_
 
 ##### Block 18: Final Project on Front-end
 
-- [ ] 18-1: _[Project - Receipes app]()_
+- [x] 18-1: _[Project - Recipes app]()_
 
 ## Back-end development :hourglass_flowing_sand:
 
 ##### Block 19: Docker: Using Containers
 
-- [ ] 19-1: _Introduction - Back-end_
-- [ ] 19-1: _Using containers - Docker_
-- [ ] 19-2: _Image manipulation and creation on Docker_
-- [ ] 19-3: _Orchestrating containers with Docker Compose_
-- [ ] 19-4: _[Project - Docker To-do list]()_
+- [x] 19-1: _Introduction - Back-end_
+- [x] 19-1: _Using containers - Docker_
+- [x] 19-2: _Image manipulation and creation on Docker_
+- [x] 19-3: _Orchestrating containers with Docker Compose_
+- [x] 19-4: _[Project - Docker To-do list]()_
 
 ##### Block 20: Introduction to SQL
 
-- [ ] 20-1: _Introduction - Relational Database_
-- [ ] 20-1: _SQL Database_
-- [ ] 20-2: _Finding data in a database_
-- [ ] 20-3: _Filtering data specificaly_
-- [ ] 20-4: _Manipulating tables_
-- [ ] 20-5: _[Project - All For One]()_
+- [x] 20-1: _Introduction - Relational Database_
+- [x] 20-1: _SQL Database_
+- [x] 20-2: _Finding data in a database_
+- [x] 20-3: _Filtering data specificaly_
+- [x] 20-4: _Manipulating tables_
+- [x] 20-5: _[Project - All For One]()_
 
 ##### Block 21: SQL functions, JOINs and Normalization
 
-- [ ] 21-1: _Most used function on SQL_
-- [ ] 21-2: _Uncomplication JOINs_
-- [ ] 21-3: _Transforming ideas in a database model_
-- [ ] 21-4: _[Live lecture + Project - One For All]()_
+- [x] 21-1: _Most used function on SQL_
+- [x] 21-2: _Uncomplication JOINs_
+- [x] 21-3: _Transforming ideas in a database model_
+- [x] 21-4: _[Live lecture + Project - One For All]()_
 
 ##### Block 22: Introduction to Web Development with Node.js
 
-- [ ] 22-1: _Intro - Node.js_
-- [ ] 22-1: _Node.js - A JavaScript motor_
-- [ ] 22-2: _Node.js - Async flow_
-- [ ] 22-3: _Mocha, Chai and Sinon - Back-end tests with Node.js_
-- [ ] 22-4: _Express - HTTP with Node.js_
-- [ ] 22-5: _Express - Middlewares_
-- [ ] 22-6: _[Project - Talker Manager]()_
+- [x] 22-1: _Intro - Node.js_
+- [x] 22-1: _Node.js - A JavaScript motor_
+- [x] 22-2: _Node.js - Async flow_
+- [x] 22-3: _Mocha, Chai and Sinon - Back-end tests with Node.js_
+- [x] 22-4: _Express - HTTP with Node.js_
+- [x] 22-5: _Express - Middlewares_
+- [x] 22-6: _[Project - Talker Manager]()_
 
 ##### Block 23: Node,js: Service layer and Rest and Restful Architecture
 
-- [ ] 23-1: _Introduction - Software architecture_
+- [x] 23-1: _Introduction - Software architecture_
 - [ ] 23-1: _Software architecture - Model layer_
 - [ ] 23-2: _Software architecture - Controller and Service layer_
 - [ ] 23-3: _Web Architecture - Rest and Restful_
