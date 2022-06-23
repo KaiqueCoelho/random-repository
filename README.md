@@ -287,5 +287,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 38-1: _Knots and Chained lists_
 - [ ] 38-2: _Stacks and lines_
 - [ ] 38-3: _[Project - TING - Trybe Is Not Google]()_
-
-The exercises produced during the classes to exercise our programming logic skills are located on the Logic Academy Directory.
