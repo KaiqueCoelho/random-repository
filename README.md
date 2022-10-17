@@ -139,7 +139,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 18-1: _[Project - Recipes app]()_
 
-## Back-end development :hourglass_flowing_sand:
+## Back-end development :heavy_check_mark:
 
 ##### Block 19: Docker: Using Containers
 
@@ -177,71 +177,71 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Block 23: Node,js: Service layer and Rest and Restful Architecture
 
-- [x] 23-1: _Introduction - Software architecture_
-- [ ] 23-1: _Software architecture - Model layer_
-- [ ] 23-2: _Software architecture - Controller and Service layer_
-- [ ] 23-3: _Web Architecture - Rest and Restful_
-- [ ] 23-4: _Software architecture - Testing layers_
-- [ ] 23-5: _[Project - Store Manager]()_
+- [X] 23-1: _Introduction - Software architecture_
+- [X] 23-1: _Software architecture - Model layer_
+- [X] 23-2: _Software architecture - Controller and Service layer_
+- [X] 23-3: _Web Architecture - Rest and Restful_
+- [X] 23-4: _Software architecture - Testing layers_
+- [X] 23-5: _[Project - Store Manager]()_
 
 ##### Block 24: Node.js: ORM and Autentication
 
-- [ ] 24-1: _Introduction - Node.js: ORM and Autentication_
-- [ ] 24-1: _ORM - Aplication interface with database_
-- [ ] 24-2: _ORM - Associations_
-- [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _[Project - Blogs API]()_
+- [X] 24-1: _Introduction - Node.js: ORM and Autentication_
+- [X] 24-1: _ORM - Aplication interface with database_
+- [X] 24-2: _ORM - Associations_
+- [X] 24-3: _JWT - (JSON Web Token)_
+- [X] 24-4: _[Project - Blogs API]()_
 
 ##### Block 25: Deployment
 
-- [ ] 25-1: _Introduction - Deply_
-- [ ] 25-1: _Infrastructure - Deploy with Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Project - Stranger Things]()_
+- [X] 25-1: _Introduction - Deply_
+- [X] 25-1: _Infrastructure - Deploy with Heroku_
+- [X] 25-2: _Deploy Docker & Heroku_
+- [X] 25-3: _[Project - Stranger Things]()_
 
 ##### Block 26: TypeScript
 
-- [ ] 26-1: _Introduction - TypeScript_
-- [ ] 26-1: _Introduction to TypeScript_
-- [ ] 26-2: _Static Typing and Generics_
-- [ ] 26-3: _Express with TypeScript_
-- [ ] 26-4: _[Project - Trybe Smith]()_
+- [X] 26-1: _Introduction - TypeScript_
+- [X] 26-1: _Introduction to TypeScript_
+- [X] 26-2: _Static Typing and Generics_
+- [X] 26-3: _Express with TypeScript_
+- [X] 26-4: _[Project - Trybe Smith]()_
 
 ##### Block 27: Object Oriented Programming and SOLID
 
-- [ ] 27-1: _Introduction to Object Orientation_
-- [ ] 27-2: _Heritage and interfaces_
-- [ ] 27-3: _Polymorphism_
-- [ ] 27-4: _SOLID - Introduction_
-- [ ] 27-5: _SOLID - Part 2_
-- [ ] 27-6: _[Project - Trybers and Dragons]()_
+- [X] 27-1: _Introduction to Object Orientation_
+- [X] 27-2: _Heritage and interfaces_
+- [X] 27-3: _Polymorphism_
+- [X] 27-4: _SOLID - Introduction_
+- [X] 27-5: _SOLID - Part 2_
+- [X] 27-6: _[Project - Trybers and Dragons]()_
 
 ##### Block 28: Project - TFC - Trybe Football Club
 
-- [ ] 28-1: _[Project - TFC - Trybe Football Club]()_
+- [X] 28-1: _[Project - TFC - Trybe Football Club]()_
 
 ##### Block 29: Introduction to MongoDB
 
-- [ ] 29-1: _Introduction - NoSQL_
-- [ ] 29-1: _MongoDB - Introduction_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _[Project - Data Flights]()_
+- [X] 29-1: _Introduction - NoSQL_
+- [X] 29-1: _MongoDB - Introduction_
+- [X] 29-2: _Filter Operators_
+- [X] 29-3: _[Project - Data Flights]()_
 
 ##### Block 30: MongoDB: Simple and Complexes Updates
 
-- [ ] 30-1: _Simple Updates_
-- [ ] 30-2: _Complexes Updates - Arrays - Part 1_
-- [ ] 30-3: _Complexes Updates - Arrays - Part 2_
-- [ ] 30-4: _[Project - Commerce]()_
+- [X] 30-1: _Simple Updates_
+- [X] 30-2: _Complexes Updates - Arrays - Part 1_
+- [X] 30-3: _Complexes Updates - Arrays - Part 2_
+- [X] 30-4: _[Project - Commerce]()_
 
 ##### Block 31: MasterClass - VPS, CI/CD
 
-- [ ] 31-1: _Day 1_
-- [ ] 31-2: _Day 2_
+- [X] 31-1: _Day 1_
+- [X] 31-2: _Day 2_
 
 ##### Block 32: Project Delivery App
 
-- [ ] 32-1: _[Project - Delivery App]()_
+- [X] 32-1: _[Project - Delivery App]()_
 
 ## Computer Science :hourglass_flowing_sand:
 
